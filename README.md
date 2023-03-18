@@ -43,6 +43,6 @@ My mid term project for Web Development course: [Library Web System](https://git
 
 - Relevant Skills: Servlet, Apache Tomcat
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qren0neu&show_icons=true&locale=en&layout=compact" alt="qren0neu" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qren0neu&show_icons=true&locale=en&layout=compact" alt="qren0neu" /></p> -->
 
 <p><b>Acknowledgement:</b> https://rahuldkjain.github.io/gh-profile-readme-generator/ for generating the content.</p>
