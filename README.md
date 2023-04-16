@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Qi Ren</h1>
-<h3 align="center">A passionate Full-Stack Developer and Teaching Assistant studying at Northeastern University</h3>
+<h3 align="center">A passionate Full-Stack Developer, Research Assistant and Teaching Assistant studying at Northeastern University</h3>
 
-- 🔭 I’m currently working on [Supply Chain Web System](https://github.com/qren0neu/SupplyChainWebSystem)
+- 🔭 I’m currently working on studying `React`, `Flask` and `MongoDB`
 
-- 🌱 I’m currently learning **Big Data and Algorithms**
+- 🌱 I just finished my study on `Big Data`, with the [Project Demo](https://github.com/qren0neu/Big-Data-Tech-Demo)
 
 - 📝 I regularly write articles on [https://qiren.gitbook.io](https://qiren.gitbook.io), also find my posts on [LinkedIn](https://www.linkedin.com/in/qiren1996/recent-activity/shares/)
 
@@ -23,31 +23,39 @@
 
 <h3 align="left">View my forked projects:</h3>
 
+I've created a demo to utilize both `Tensorflow` and `Pytorch`: [GeoAppDemo](https://github.com/qren0neu/GeoAppDemo)
+
+- Relevant Skills: `Tensorflow`, `Pytorch`, `Android Navigation`, `Android Camera`
+
 I've adding some features to the [Tensor Flow Android Demo](https://github.com/qren0neu/examples) 
 
 Including adding a simple google login page, adding feature to scan image in gallery, etc.
 
 <h3 align="left">View my academic projects:</h3>
 
+My projects for Big Data course: [Big Data Tech Demo](https://github.com/qren0neu/Big-Data-Tech-Demo)
+
+- Relevant Skills: `ElasticSearch`, `Kibana`, `Redis`, `RabbitMQ`, `JSON Schema`, `RESTful API`, `HTTP`
+
 My final project for Web Development course: [Supply Chain Web System](https://github.com/qren0neu/SupplyChainWebSystem)
 
-- Relevant Skills: Spring Boot, Java Validation, JPA, MySQL, JDBC, REST API, JSON, Themyleaf, JavaScript, HTML, CSS
+- Relevant Skills: `Spring Boot`, `Java Validation`, `JPA`,`MySQL`, `JDBC`, `RESTful API`, `JSON`, `Themyleaf`, `JavaScript`, `HTML`, `CSS`
 
 My final project for Data Science course: [Music Recommendation System](https://github.com/qren0neu/Music-Recommendation-System)
 
-- Relevant Skills: Jupyter Notebook, Python, SkLearn, Spotify API, Machine Learning
+- Relevant Skills: `Jupyter Notebook`, `Python`, `SkLearn`, `Spotify API`, `Machine Learning`
 
 My final project for Application Engineering course: [Course Registration System](https://github.com/qren0neu/CourseRegistrationSystem-GUI)
 
-- Relevant Skills: Java, GUI, MVC, JDBC, MySQL
+- Relevant Skills: `Java`, `GUI`, `MVC`, `JDBC`, `MySQL`
 
 My final project for Database course: [Hospital DBMS](https://github.com/qren0neu/Hospital-DBMS)
 
-- Relevant Skills: MySQL, ER (Entity Relation) Diagram
+- Relevant Skills: `MySQL`, `ER (Entity Relation) Diagram`
 
 My mid term project for Web Development course: [Library Web System](https://github.com/qren0neu/LibraryWebSystem)
 
-- Relevant Skills: Servlet, Apache Tomcat
+- Relevant Skills: `Servlet`, `Apache Tomcat`
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qren0neu&show_icons=true&locale=en&layout=compact" alt="qren0neu" /></p> -->
 
