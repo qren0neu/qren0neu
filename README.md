@@ -35,7 +35,7 @@ Including adding a simple google login page, adding feature to scan image in gal
 
 My projects for Big Data course: [Big Data Tech Demo](https://github.com/qren0neu/Big-Data-Tech-Demo)
 
-- Relevant Skills: `ElasticSearch`, `Kibana`, `Redis`, `RabbitMQ`, `JSON Schema`, `RESTful API`, `HTTP`
+- Relevant Skills: `ElasticSearch`, `Kibana`, `Redis`, `RabbitMQ`, `JSON Schema`, `RESTful API`, `HTTP`, `OAuth 2`, `JWT`
 
 My final project for Web Development course: [Supply Chain Web System](https://github.com/qren0neu/SupplyChainWebSystem)
 
