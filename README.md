@@ -1,17 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Qi Ren</h1>
-<h3 align="center">A passionate Full-Stack Developer, Research Assistant and Teaching Assistant studying at Northeastern University</h3>
+<h1 align="center">Hi there 👋, I'm David Ren</h1>
+<h3 align="center">A just-in-time Developer, lifelong learner, student leader.</h3>
 
-- 🔭 I’m currently working on studying `React`, `Flask` and `MongoDB`
+- 🔭 I’m currently working on [Pictgen.ai](https://pictgen.ai/), AI for the rest of US
 
-- 🌱 I just finished my study on `Big Data`, with the [Project Demo](https://github.com/qren0neu/Big-Data-Tech-Demo)
+- 👨‍🎓 I'm studying at Northeastern University Toronto, with a CGPA of 4.0
 
 - 📝 I regularly write articles on [https://qiren.gitbook.io](https://qiren.gitbook.io), also find my posts on [LinkedIn](https://www.linkedin.com/in/qiren1996/recent-activity/shares/)
 
-- 💬 Ask me about **Mobile, Backend and Database**
+- 💬 Ask me about **React, Flutter, AWS and Android**
 
-- 📫 How to reach me **qiren.neu@gmail.com**
+- 📫 Reach me at **qiren.neu@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/qiren1996/](https://www.linkedin.com/in/qiren1996/)
+- 📄 Shoot me a message on [LinkedIn](https://www.linkedin.com/in/qiren1996/)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
