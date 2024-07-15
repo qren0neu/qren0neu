@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://qiren.gitbook.io](https://qiren.gitbook.io), also find my posts on [LinkedIn](https://www.linkedin.com/in/qiren1996/recent-activity/shares/)
 
-- 💬 Ask me about **React, Flutter, AWS and Android**
+- 💬 Ask me about **React, React Native, AWS and Android**
 
 - 📫 Reach me at **qiren.neu@gmail.com**
 
