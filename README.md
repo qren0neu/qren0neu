@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm David Ren</h1>
-<h3 align="center">A just-in-time Developer, lifelong learner, student leader.</h3>
 
 - 🔭 I’m currently working on [Pictgen.ai](https://pictgen.ai/), AI for the rest of US
 
